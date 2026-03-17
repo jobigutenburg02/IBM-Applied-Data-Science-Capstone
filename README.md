@@ -1,5 +1,5 @@
 # IBM-Applied-Data-Science-Capstone
-This capstone is the 12th course in IBM Data Science Professional Certificate specialization, and all materials that have been learned during this specialization are summarized in the form of project.
+This capstone is the 10th course in IBM Data Science Professional Certificate specialization, and all materials that have been learned during this specialization are summarized in the form of project.
 ## Project Background
 SpaceX is the most successful company of the commercial space 
 age, making space travel affordable. The company advertises Falcon 
